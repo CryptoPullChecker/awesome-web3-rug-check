@@ -19,7 +19,7 @@
 - [RugScreen](https://rugscreen.com/Main/Index)
 - [DexAnalyzer](https://www.dexanalyzer.io/analyzer)
 - [De.Fi](https://de.fi/scanner)
-- [Crypto Pull Checker](https://cryptopullcheck.com/) — Free crypto rug-pull & honeypot checker: paste a token address, get a safety score out of 100. Urdu-first with Hindi edition.
+- [Crypto Pull Checker](https://cryptopullcheck.com)
 - [MarketMove](https://app.marketmove.ai/)
 - [BscCheck](https://www.bscheck.eu)
 - [quickintel](https://app.quickintel.io/scanner)
